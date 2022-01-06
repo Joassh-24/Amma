@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+
+body {
+  background: black;
+  margin: 0;
+  padding: 0;
+  color: white;
+  box-sizing: border-box;
+  font-family: 'Raleway', sans-serif;
+}
+
+div {
+  position: relative;
+  width: 83%;
+  height: 175px;
+
+}
+
+h1 {
+  position: absolute;
+  width: 100%;
+  height: 50%;
+  font-size: 45px;
+}
+
+h1:after {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 100%;
+  line-height: 48px;
+  left: 5%;
+  top: 50%;
+  animation: abomination1 7.5s linear 1;
+  animation-fill-mode: forwards;
+}
+
+@keyframes abomination1 {
+  0% {    content: "L";  }
+  2% {    content: "Lo";  }
+  4% {    content: "Lov";  }
+  6% {    content: "Love";  }
+  8% {    content: "Love ";  }
+  10% {    content: "Love Y";  }
+  12% {    content: "Love Yo"  }
+  14% {    content: "Love You";  }
+  16% {    content: "Love You ";  }
+  18% {    content: "Love You ";  }
+  20% {    content: "Love You S";  }
+  22% {    content: "Love You So";  }
+  24% {    content: "Love You So ";  }
+  26% {    content: "Love You So ";  }
+  28% {    content: "Love You So M";  }
+  30% {    content: "Love You So Mu";  }
+  32% {    content: "Love You So Mu";  }
+  34% {    content: "Love You So Muc";  }
+  36% {    content: "Love You So Much";  }
+  38% {    content: "Love You So Much ";  }
+  40% {    content: "Love You So Much H";  }
+  42% {    content: "Love You So Much Ha";  }
+  44% {    content: "Love You So Much Has";  }
+  46% {    content: "Love You So Much Hash";  }
+  48% {    content: "Love You So Much Hashi";  }
+  50% {    content: "Love You So Much Hashin";  }
+  52% {    content: "Love You So Much Hashini";  }
+  54% {    content: "Love You So Much Hashini ";  }
+  56% {    content: "Love You So Much Hashini A";  }
+  58% {    content: "Love You So Much Hashini Am";  }
+  60% {    content: "Love You So Much Hashini Amm";  }
+  62% {    content: "Love You So Much Hashini Amma😁❤";  }
+  64% {    content: "Lov You So Much Hashini Amma😁❤";  }
+  66% {    content: "Lo You So Much Hashini Amma😁❤";  }
+  68% {    content: "L You So Much Hashini Amma😁❤";  }
+  70% {    content: " You So Much Hashini Amma";  }
+  72% {    content: "B You So Much Hashini Amma";  }
+  74% {    content: "Bu You So Much Hashini Amma";  }
+  76% {    content: "But You So Much Hashini Amma";  }
+  78% {    content: "But  You So Much Hashini Amma";  }
+  80% {    content: "But I You So Much Hashini Amma";  }
+  84% {    content: "But I M You So Much Hashini Amma";  }
+  88% {    content: "But I Mi You So Much Hashini Amma";  }
+  92% {    content: "But I Mis You So Much Hashini Amma";  }
+  96% {    content: "But I Miss You So Much Hashini Amma";  }
+  100% {    content: "But I miss You So Much Hashini Amma...😕💙";  }
+
+
+
+
+
+
+
+}
