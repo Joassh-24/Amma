@@ -35,7 +35,7 @@ h1:after {
   animation-fill-mode: forwards;
 }
 
-@keyframes abomination1 {
+@-webkit-keyframes abomination1 {
   0% {    content: "L";  }
   2% {    content: "Lo";  }
   4% {    content: "Lov";  }
